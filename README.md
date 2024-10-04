@@ -33,8 +33,8 @@ Here's a list of languages and tools I'm familiar with:
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/jo4o-r0drigu3s/) or check out my projects here on GitHub!
 
 ## 🚀 Projects
-- [Project 1](https://github.com/J0A0R/LAPR5_ISEP): This my latest project from ISEP.
-- [Project 2](https://github.com/J0A0R/LAPR4_ISEP): This is the project i enjoyed doing the most in ISEP.
+- [Project 1](https://github.com/J0A0R/LAPR5_ISEP): This my latest project made @ ISEP.
+- [Project 2](https://github.com/J0A0R/LAPR4_ISEP): This is the project i enjoyed doing the most @ ISEP.
 
 ## 📊 GitHub Stats
 ![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0A0R&show_icons=true&theme=radical)
