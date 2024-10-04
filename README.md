@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Joao Rodrigues!
 
-<!--
-**J0A0R/J0A0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** from Portugal, passionate about building innovative solutions and exploring the latest technologies.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🎓 Education
+🎓 **Bachelor's in Software Engineering**  
+📍 Instituto Superior de Engenharia do Porto  
+
+## 🌍 About Me
+- 👶 Age: 21
+- 💻 Software Developer with experience in various programming languages and frameworks.
+- 🌱 Currently exploring new technologies and improving my skill set.
+
+## 🛠️ Languages and Tools
+Here's a list of languages and tools I'm familiar with:
+
+- **Languages:**
+  - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat&logo=javascript&logoColor=black)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+- **Frameworks:**
+  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+  - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
+
+## 📫 Get in Touch
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out my projects here on GitHub!
+
+## 🚀 Projects
+- [Project 1](https://github.com/yourusername/project1): Description of project 1.
+- [Project 2](https://github.com/yourusername/project2): Description of project 2.
+
+## 📊 GitHub Stats
+![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
