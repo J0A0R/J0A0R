@@ -2,7 +2,7 @@
 
 I'm a **Software Developer** from Portugal, passionate about building innovative solutions and exploring the latest technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) 
+![Profile Views](https://komarev.com/ghpvc/?username=J0A0R&color=blue) 
 
 ## 🧑‍🎓 Education
 🎓 **Bachelor's in Software Engineering**  
@@ -30,14 +30,14 @@ Here's a list of languages and tools I'm familiar with:
   - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 ## 📫 Get in Touch
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out my projects here on GitHub!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/jo4o-r0drigu3s/) or check out my projects here on GitHub!
 
 ## 🚀 Projects
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
+- [Project 1](https://github.com/J0A0R/LAPR5_ISEP): This my latest project from ISEP.
+- [Project 2](https://github.com/J0A0R/LAPR4_ISEP): This is the project i enjoyed doing the most in ISEP.
 
 ## 📊 GitHub Stats
-![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0A0R&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0A0R&layout=compact&theme=radical)
 
